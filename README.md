@@ -1,3 +1,5 @@
+![GitHub stars](https://img.shields.io/github/stars/Prathamesh-14-a/customer-segmentation-rfm)
+![GitHub license](https://img.shields.io/github/license/Prathamesh-14-a/customer-segmentation-rfm)
 # Customer Segmentation using RFM Analysis
 
 ## Overview
