@@ -1,6 +1,6 @@
 
 --Creating New Database To Import Cleaned Dataset Into 
--- “This is for local analysis only.”
+-- â€œThis is for local analysis only.â€
 CREATE DATABASE CustomerAnalytics;
 USE CustomerAnalytics;
 
@@ -194,11 +194,11 @@ FROM rfm_scored
 GROUP BY Segment_Name
 ORDER BY No_Of_Customers DESC;
 
--- At Risk — 542 = “We have a large base of previously valuable customers going inactive.”
--- New Customers — 53 = “The dataset spans a long historical window, so truly new customers
-                       --near the reference date are limited.”
--- Lost Big Spenders — 47 = “Although small, this segment represents disproportionately high revenue risk.”
--- Others — 1105 = “Others are customers with inconsistent or transitional behavior.”
+-- At Risk â€” 542 = â€œWe have a large base of previously valuable customers going inactive.â€
+-- New Customers â€” 53 = â€œThe dataset spans a long historical window, so truly new customers
+                       --near the reference date are limited.â€
+-- Lost Big Spenders â€” 47 = â€œAlthough small, this segment represents disproportionately high revenue risk.â€
+-- Others â€” 1105 = â€œOthers are customers with inconsistent or transitional behavior.â€
 
 ----------------------------------------------------------------------------------------
 
@@ -256,6 +256,7 @@ FROM dbo.rfm_final
 GROUP BY Segment_Name
 ORDER BY total_revenue DESC;
 -- More than 60% Revenue Is From Champions Segment
+
 
 
 
