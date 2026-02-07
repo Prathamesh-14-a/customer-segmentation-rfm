@@ -17,7 +17,8 @@ This project performs customer segmentation using RFM (Recency, Frequency, Monet
 - Power BI
 
 ## Dataset
-- Source: Online Retail Dataset
+- Source: UCI Machine Learning Repository - Online Retail Dataset
+- Dataset Link:  https://uci-ics-mlr-prod.aws.uci.edu/dataset/352/online%2Bretail?utm_source=chatgpt.com 
 - Time Period: Dec 2010 – Dec 2011
 - Data cleaned to remove cancellations, invalid transactions, and null customers
 
@@ -46,3 +47,7 @@ Champions and Loyal customers contribute the majority of revenue, while a signif
 ## Author
 Prathmesh Ambulge  
 GitHub: https://github.com/Prathamesh-14-a
+
+
+If you find this project useful, feel free to ⭐ the repo!
+
