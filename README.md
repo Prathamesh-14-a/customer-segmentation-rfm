@@ -37,10 +37,10 @@ Power BI dashboard includes:
 
   ## Dashboard Preview
 ### Executive Overview
-![Executive Overview Dashboard](powerbi/dashboard_overview.png)
+![Executive Overview Dashboard](powerbi/dashboard_overview.png.png)
 
 ### Behavioral Deep Dive
-![Behavioral Deep Dive Dashboard](powerbi/dashboard_deep_dive.png)
+![Behavioral Deep Dive Dashboard](powerbi/dashboard_deep_dive.png.png)
 
 
 ## Files in this Repository
