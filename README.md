@@ -35,6 +35,14 @@ Power BI dashboard includes:
 - Revenue contribution by segment
 - Behavioral analysis of Recency, Frequency, and Monetary metrics
 
+  ## Dashboard Preview
+### Executive Overview
+![Executive Overview Dashboard](powerbi/dashboard_overview.png)
+
+### Behavioral Deep Dive
+![Behavioral Deep Dive Dashboard](powerbi/dashboard_deep_dive.png)
+
+
 ## Files in this Repository
 - `/notebooks` – Data cleaning notebook
 - `/sql` – SQL scripts for RFM aggregation and scoring
@@ -47,6 +55,10 @@ Champions and Loyal customers contribute the majority of revenue, while a signif
 ## Author
 Prathmesh Ambulge  
 GitHub: https://github.com/Prathamesh-14-a
+
+## License
+This project is licensed under the MIT License.
+
 
 
 If you find this project useful, feel free to ⭐ the repo!
