@@ -5,6 +5,12 @@
 ## Overview
 This project performs customer segmentation using RFM (Recency, Frequency, Monetary) analysis to identify high-value customers and behavioral patterns for targeted marketing.
 
+## How to View the Project
+- Open the PDF in `/report/`
+- Run the Python notebook in `/notebooks/`
+- Execute SQL script in your SQL Server
+- Open the Power BI dashboard from `/powerbi/`
+
 ## Tools Used
 - Python (Pandas, NumPy)
 - SQL Server
